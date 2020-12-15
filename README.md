@@ -10,3 +10,5 @@ There are locations within the map that are considered to be dark. Thus, in orde
 As mentioned before, the user must utilize various objects to solve the maze and find the winning item. These items are located across the map in various rooms. The items located in dark rooms are considered invisible to the user until the user utilizes items that illuminate rooms. Additionally, there are certain items which can be opened to reveal other items inside of them (such as a fridge). The user can take items, inspect them once they are in their inventory, and then use them to solve certain puzzles. Some items cannot be taken by the user (due to them being too heavy) but can be inspected and potentially opened. 
 
 In order to win, the user must successfully navigate throughout the rooms, find the priceless painting item, and return to the porch location using the leave. command. Upon completion of the game, the user will be prompted to enter the halt. command to complete the program. 
+
+## Example starting commands in terminal
