@@ -12,3 +12,4 @@ As mentioned before, the user must utilize various objects to solve the maze and
 In order to win, the user must successfully navigate throughout the rooms, find the priceless painting item, and return to the porch location using the leave. command. Upon completion of the game, the user will be prompted to enter the halt. command to complete the program. 
 
 ## Example starting commands in terminal
+![Alt text](/COMP4400_FinalProject/COMP4400_adventure.pl.jpg?raw=true "Sample Starting Commands in Terminal")
